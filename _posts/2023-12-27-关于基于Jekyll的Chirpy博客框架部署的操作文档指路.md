@@ -1,8 +1,6 @@
 ﻿---
 title: 关于基于Jekyll的Chirpy博客框架部署的操作文档指路
 date: 2023-12-27 14:46:00 +0800
-categories: [HARDCORE ARTICLES, CODING]
-tags: [origin]
 author: LyricEpic
 ---
 
