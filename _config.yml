@@ -73,7 +73,8 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/ch-LyricEpic/ch-LyricEpic.github.io/blob/main/assets/avatar2.jpg?raw=true
+avatar: https://cdn.gitblock.cn/Media?name=9BD746F14D83E525D256348B7CD66774.png
+# https://github.com/ch-LyricEpic/ch-LyricEpic.github.io/blob/main/assets/avatar2.jpg?raw=true
 # boolean type, the global switch for TOC in posts.
 toc: true
 
